@@ -17,7 +17,7 @@ And our target is the **PRECIP TYPE** (rain, snow) column.
 
 The number of columns and rows before cleaning were **12** and **96,453** After cleaning up the data the number of columns and rows are **16** and **95,829**.
 
-The figure below shows the correlation between the numerical features
+The figure below shows the correlation between the features
 
 <img src="https://github.com/samaher21/CLASSIFICATION_PROJECT/blob/main/heatmapforWeather.png" alt="drawing" width="600"/>  
 
