@@ -1,5 +1,5 @@
 
-# Weather Classification
+# Weather_rain-or-snow
 ### Goal of the project:
 The core objective of this project is to classify whether will rain or snow based on weather data.
 
