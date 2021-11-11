@@ -37,8 +37,8 @@ The datase that will be used in this project has been downloaded from [Kaggle](h
 
 **•	Technologies:**
 
-       Python, Jupyter Notebook.
+  Python, Jupyter Notebook.
        
 **•	Libraries:**
 
-      Pandas, NumPy, Seaborn, Matplotlib, sklearn.
+  Pandas, NumPy, Seaborn, Matplotlib, sklearn.
