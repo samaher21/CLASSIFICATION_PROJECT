@@ -19,7 +19,8 @@ The number of columns and rows before cleaning were **12** and **96,453** After 
 
 The figure below shows the correlation between the features
 
-<img src="https://github.com/samaher21/CLASSIFICATION_PROJECT/blob/main/heatmapforWeather.png" alt="drawing" width="600"/>  
+ ![heatmapforWeather (1)](https://user-images.githubusercontent.com/90618007/146275621-01eb1161-c805-411f-8e12-2632b2278687.png)
+
 
 ### Next step:
 
